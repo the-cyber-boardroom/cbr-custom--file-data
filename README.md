@@ -9,5 +9,5 @@ Repo for CBR Custom - File_Data
 
 ## Repo details
 
-![Current Release](https://img.shields.io/badge/release-v0.8.1-blue)
+![Current Release](https://img.shields.io/badge/release-v0.0.2-blue)
 
